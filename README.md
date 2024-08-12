@@ -1,2 +1,2 @@
-# TargetCaseStudy_SB01
-Exploratory data analysis over dataset
+# Target Business Case Study
+Exploratory data analysis over dataset with SQL
