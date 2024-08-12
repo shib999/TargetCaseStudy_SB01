@@ -10,7 +10,6 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 ___________________________________________________________________________________________________________
 
 Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
-
 The data is available in 8 csv files:
 
 customers.csv
@@ -25,5 +24,4 @@ products.csv
 ___________________________________________________________________________________________________________
 
 Problem Statement:
-
 Assuming you are a data analyst/ scientist at Target, you have been assigned the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
